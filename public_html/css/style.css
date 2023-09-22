@@ -66,8 +66,7 @@ a:focus {
   border: none;
 }
 
-.navbar {
-}
+
 
 .nav-link:hover {
   color: #fefefe;
@@ -204,8 +203,7 @@ a:focus {
 /* end slider section */
 
 /* welcome section */
-.welcome_section {
-}
+
 
 .welcome_section .col-md-6 {
   padding: 0 4%;
@@ -354,8 +352,7 @@ a:focus {
 /* end service section */
 
 /* security section */
-.security_section {
-}
+
 
 .security_section h2 {
   text-transform: uppercase;
@@ -635,8 +632,7 @@ a:focus {
   justify-content: space-between;
 }
 
-.info_section .news_container .social_container > div {
-}
+
 
 /* end info section */
 
